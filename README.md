@@ -11,8 +11,8 @@ Solução para o desafio técnico do processo seletivo da Infosimples, que consi
   - `json` (manipulação de JSON)
 
 ## Estrutura do Repositório
-- Take-Home Coding Challenge.pdf # Documento original do desafio
-- CodeChallenge.py # Código principal executável
-- Testes.ipynb # Notebook com desenvolvimento iterativo
-- produto.json # Resultado da extração (JSON)
-- README.md # Este arquivo
+- 'Take-Home Coding Challenge.pdf' # Documento original do desafio
+- 'CodeChallenge.py' # Código principal executável
+- 'Testes.ipynb' # Notebook com desenvolvimento iterativo
+- 'produto.json' # Resultado da extração (JSON)
+- 'README.md' # Este arquivo
