@@ -1,7 +1,7 @@
 # CodingChallenge_InfoSimples
 
 ## Descrição do Projeto
-Solução para o desafio técnico do processo seletivo da Infosimples, que consiste em extrair dados estruturados de uma página de e-commerce fictícia e gerar um arquivo JSON conforme especificado no [Take-Home Coding Challenge.pdf](Take-Home%20Coding%20Challenge.pdf).
+Solução para o desafio técnico do processo seletivo da Infosimples, que consiste em extrair dados estruturados de uma página de e-commerce fictícia e gerar um arquivo JSON conforme especificado no [Take-Home Coding Challenge.pdf](Take-Home%20Coding%20Challenge.pdf).  
 O arquivo a ser executado é o 'CodeChallenge.py'. Ele quando executado gera o arquivo 'produto.json'.
 
 ## Tecnologias Utilizadas
